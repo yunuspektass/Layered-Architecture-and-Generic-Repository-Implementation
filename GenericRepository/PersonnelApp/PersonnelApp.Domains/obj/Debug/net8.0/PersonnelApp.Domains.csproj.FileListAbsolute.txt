@@ -1,0 +1,11 @@
+/Users/yunuspektas/Desktop/GenericRepository/PersonnelApp/PersonnelApp.Domains/bin/Debug/net8.0/PersonnelApp.Domains.deps.json
+/Users/yunuspektas/Desktop/GenericRepository/PersonnelApp/PersonnelApp.Domains/bin/Debug/net8.0/PersonnelApp.Domains.dll
+/Users/yunuspektas/Desktop/GenericRepository/PersonnelApp/PersonnelApp.Domains/bin/Debug/net8.0/PersonnelApp.Domains.pdb
+/Users/yunuspektas/Desktop/GenericRepository/PersonnelApp/PersonnelApp.Domains/obj/Debug/net8.0/PersonnelApp.Domains.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunuspektas/Desktop/GenericRepository/PersonnelApp/PersonnelApp.Domains/obj/Debug/net8.0/PersonnelApp.Domains.AssemblyInfoInputs.cache
+/Users/yunuspektas/Desktop/GenericRepository/PersonnelApp/PersonnelApp.Domains/obj/Debug/net8.0/PersonnelApp.Domains.AssemblyInfo.cs
+/Users/yunuspektas/Desktop/GenericRepository/PersonnelApp/PersonnelApp.Domains/obj/Debug/net8.0/PersonnelApp.Domains.csproj.CoreCompileInputs.cache
+/Users/yunuspektas/Desktop/GenericRepository/PersonnelApp/PersonnelApp.Domains/obj/Debug/net8.0/PersonnelApp.Domains.dll
+/Users/yunuspektas/Desktop/GenericRepository/PersonnelApp/PersonnelApp.Domains/obj/Debug/net8.0/refint/PersonnelApp.Domains.dll
+/Users/yunuspektas/Desktop/GenericRepository/PersonnelApp/PersonnelApp.Domains/obj/Debug/net8.0/PersonnelApp.Domains.pdb
+/Users/yunuspektas/Desktop/GenericRepository/PersonnelApp/PersonnelApp.Domains/obj/Debug/net8.0/ref/PersonnelApp.Domains.dll

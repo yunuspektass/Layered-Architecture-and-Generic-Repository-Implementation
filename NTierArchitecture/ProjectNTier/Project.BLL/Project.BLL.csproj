@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Project.DAL\Project.DAL.csproj" />
+      <ProjectReference Include="..\Project.ENTITIES\Project.ENTITIES.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="EntityFramework" Version="6.5.0-preview2-24180-01" />
+    </ItemGroup>
+
+</Project>
